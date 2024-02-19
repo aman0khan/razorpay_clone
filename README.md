@@ -1,3 +1,3 @@
 # razorpay_clone
 
-https://discord-landing-page-two.vercel.app
+https://razorpay-clone-tau-ten.vercel.app
